@@ -12,3 +12,6 @@ Readme files are used to describe the project or repository.
 
 TODO: Let's have a description of the design here.
 NOTE: Who should be involved in this.
+
+
+bla bla bla
