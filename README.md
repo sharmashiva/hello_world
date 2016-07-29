@@ -6,8 +6,9 @@ Adding more info in the first section.
 
 ## Intro
 
-Readme files are used to describe the prject or repository.
+Readme files are used to describe the project or repository.
 
 ## Design
 
-TODO: Let's have a descrioption of the design here.
+TODO: Let's have a description of the design here.
+NOTE: Who should be involved in this.
