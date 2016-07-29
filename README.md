@@ -1,4 +1,6 @@
-# hello_world
+# Hello World
+
+The first program you ever write is `hello_world`
 
 ## Intro
 
